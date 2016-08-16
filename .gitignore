@@ -1,0 +1,12 @@
+.idea
+.DS_Store
+npm-debug.log
+nodemon.json
+node_modules/
+bower_components/
+build/
+dist/
+generator/
+logs/
+nodemon.json
+.jshintrc
